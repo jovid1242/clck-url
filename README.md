@@ -1,6 +1,6 @@
-# Test tasks ( Authorization )
+# Test tasks ( link shorteners )
 
-## Tech
+## Tech ...
 
 Project uses a number of open source projects to work properly:
 
@@ -12,13 +12,6 @@ Project uses a number of open source projects to work properly:
 -   [Ant Design](https://ant.design/) - A design system for enterprise-level products
 -   [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 -   [Scss](https://sass-scss.ru/) - Scss
-
-# Login details:
-
-```sh
-"username": "jovid",
-"password": "123456",
-```
 
 # How to:
 
@@ -49,7 +42,6 @@ For _npm_:
 ```sh
 npm run start
 ```
-
 
 Node version:
 
