@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+
+    .ant-layout-header {
+        background: #fff !important;
+        box-shadow: 0 2px 8px #e681342e !important;
+    }
+
+    .logo {
+        font-size: 28px;
+        font-weight: 600;
+    }
+}
